@@ -57,8 +57,8 @@ https://user-images.githubusercontent.com/107896645/235791742-f52d2e05-1a69-47c9
 
 # Acesso ao projeto
 
-<br>
-:open_file_folder: [Acesse meu projeto](https://tarcilalves.github.io/SiteFrutaeFruto/).
+ <br> 
+:open_file_folder: [Acesse meu projeto]( https://tarcilalves.github.io/Layouts-Responsivos/).
 
 
 # Tecnologias utilizadas
