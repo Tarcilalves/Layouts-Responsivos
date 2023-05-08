@@ -26,8 +26,7 @@
 # Descrição do Projeto
 
 
-> Neste curso, eu aprendi todo o processo para desenvolver uma página web, desde o planejamento até a publicação. Descobri também a ferramenta Emmet, 
-que ajudou a acelerar a escrita dos códigos, aumentando a minha produtividade.
+>Neste curso, eu aprendi todo o processo para desenvolver uma página web, com responsividade para que se adapte as várias telas como Desktop, tablet e celulares. A ferramenta Emmet, que ajudou a acelerar a escrita dos códigos, aumentando a minha produtividade.
 >
 >   Com relação aos códigos CSS, aprendi técnicas para torná-los mais organizados e fáceis de manter, como o uso de variáveis para personalização. 
 Além disso, entendi a importância de escrever códigos semânticos, que favorecem a acessibilidade e a indexação em motores de busca.
